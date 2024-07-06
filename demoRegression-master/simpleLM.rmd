@@ -77,6 +77,8 @@ summary.lm(simp)
 
 The summary for all the plots
 
+For the Chest: The RSE was 33.08, but the Adjusted R-squared is 0.9262
+
 For the Neck: The RSE was 43.91, but the Adjusted R-squared is 0.87
 
 For the Length: The RSE was 61.83, but the Adjusted R-squared is 0.7423
