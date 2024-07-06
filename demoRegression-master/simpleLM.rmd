@@ -63,4 +63,6 @@ For the Neck: The RSE was 43.91, but the Adjusted R-squared is 0.87
 
 For the Headlen: The RSE was 67.81 but the Adjusted R-squared is 0.69
 
+For the Headwth: The RSE was 76.41 but the Adjusted R_squared is 0.6064
+
 For the Age: The RSE was 81.47, but the Adjusted R-squared is 0.5526
