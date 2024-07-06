@@ -88,3 +88,6 @@ For the Headlen: The RSE was 67.81 but the Adjusted R-squared is 0.69
 For the Headwth: The RSE was 76.41 but the Adjusted R_squared is 0.6064
 
 For the Age: The RSE was 81.47, but the Adjusted R-squared is 0.5526
+
+
+After going through all of the result on the graph we have the result for the best grouping on the graph is the chest the R- squared being at 0.9262, while the worst grouping on the graph is the age the R-squared being the lowest standing at 0.5526.
